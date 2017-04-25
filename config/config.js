@@ -17,7 +17,7 @@ exports.proxyip = false;
 //   in every Random Battle team.
 exports.potd = '';
 exports.superAdmins = {
-	"error408": 1
+	"nomorewrds": 1
 };
 
 
